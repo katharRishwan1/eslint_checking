@@ -9,7 +9,7 @@ export default [
     quotes: ["error", "single"],
     'max-lines': [
 			'error',
-			{ max: 10, skipBlankLines: true, skipComments: true },
+			{ max: 20, skipBlankLines: true, skipComments: true },
 		],
   },
   ignores:[
